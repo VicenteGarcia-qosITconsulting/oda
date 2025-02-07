@@ -22,7 +22,7 @@ print(cadena1+" "+cadena2)
 espacio=" "
 print("Esto son diez espacios:"+(espacio*10)+".")
 #Posiciones en cadenas
-palabra="Python"
+palabra="Python"    
 print(palabra[1])
 print(palabra[-1])
 print(palabra[0:2])
